@@ -1,9 +1,9 @@
 # Hi, I'm  Mayur Sanjay Dhole👋
 ### 3rd Year B.Sc. Data Science Student | Aspiring Data Scientist & ML Engineer
 
-[![LinkedIn]()
-[![GitHub]()
-[![Email]()
+[![LinkedIn](https://www.linkedin.com/in/mayur-dhole-801165435?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://github.com/Mayur3100/Mayur3100/edit/main/README.md)
+[![Email](mayurd3100@gmail.com)
 [![Portfolio]()
 
 ---
