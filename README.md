@@ -1,10 +1,10 @@
 # Hi, I'm  Mayur Sanjay Dhole👋
 ### 3rd Year B.Sc. Data Science Student | Aspiring Data Scientist & ML Engineer
 
-[![LinkedIn](https://www.linkedin.com/in/mayur-dhole-801165435?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![GitHub](https://github.com/Mayur3100/Mayur3100/edit/main/README.md)
-[![Email](mayurd3100@gmail.com)
-[![Portfolio]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-dhole-801165435?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayur3100)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email@example.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E69?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[your-portfolio-url.com])
 
 ---
 
